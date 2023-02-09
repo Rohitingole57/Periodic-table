@@ -1,0 +1,101 @@
+.main{
+    background-color: rgb(186, 220, 251);
+    /* margin: 100px 0px 19px 406px; */
+}
+p{
+    text-align: center;
+    padding: 20px 0px 0px 0px;
+    font-size: 25px;
+    margin: 0;
+}
+span{
+    color: rgb(0, 110, 255);
+    font-size: 21px;
+    text-align: center;
+  
+}
+.main2{
+    display: flex;
+    margin: 10px 0 0 292px;
+    /* justify-content: center; */
+}
+.container {
+    display: flex;
+    justify-content: center;
+}
+.first{
+   
+}
+.second{
+    margin-top: 62px;
+}
+.third{
+    margin-top: 186px;
+   
+}
+.fourth{
+    margin-top: 62px;
+}
+.sixth{
+    /* flex-wrap: wrap; */
+    /* margin-top: 250px; */
+}
+.box1 {
+    margin: 5px;
+    border: 1px solid black;
+    width: 55px;
+    height: 55px;
+    font-size: 30px;
+    text-align: center;
+    background-color: orangered;
+}
+.box2 {
+   margin: 5px;
+    width: 55px;
+    height: 55px;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 30px;
+    background-color: orangered;
+}
+.box3{
+    margin: 5px;
+    width: 55px;
+    height: 55px;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 30px;
+    background-color: rgb(81, 174, 255);
+    /* flex-direction: column;
+    grid-template-columns: ; */
+}
+.box4{
+    margin: 5px;
+    width: 55px;
+    height: 55px;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 30px;
+    background-color: rgb(255, 255, 48);
+}
+.box5{
+    background-color: rgb(255, 255, 48);
+    margin: 5px;
+    width: 55px;
+    height: 55px;
+    font-size: 30px;
+    border: 1px solid black;
+    text-align: center;
+}
+.he{
+    background-color: orangered;
+}
+.box6{
+    background-color: rgb(48, 255, 48);
+    margin: 5px;
+    width: 55px;
+    height: 55px;
+    font-size: 30px;
+    border: 1px solid black;
+    text-align: center;
+}
